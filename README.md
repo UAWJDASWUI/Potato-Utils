@@ -1,4 +1,4 @@
-# TurboWarp Extension Gallery
+# Potater234's TurboWarp Extension Gallery
 
 User-contributed unsandboxed extension gallery for TurboWarp.
 
