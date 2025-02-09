@@ -1,6 +1,6 @@
 // Name: Potato Utils
 // ID: PotatoUtils
-// Description: Control, Sensing, Operators & Hacked/Hidden Blocks expanion like no other Utility Extension!
+// Description: Control, Sensing, Operators & Hacked/Hidden Blocks expansion like no other Utility Extension!
 // By: Potater234 <https://odysee.com/$/invite/@Potater234:6>
 // License: MPL-2.0
 (async function(Scratch) {
